@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/rpy/tools/custom_screens.rpy", line 10: 'with' is not a keyword argument or valid child of the screen statement.
+    with pixellate
+        ^
+
+Ren'Py Version: Ren'Py 8.1.1.23060707
+Sun Jun 25 18:17:59 2023
