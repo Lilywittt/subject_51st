@@ -1,5 +1,5 @@
 label plot_01_01_01:
-    scene bg test_bg
+    scene bg test_bg_01
     show screen episode("Episode-01 逃离圣心医院")
     pause 3.0
     hide screen episode

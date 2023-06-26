@@ -20,4 +20,5 @@ screen episode(episode_content):
             linear 1.0 alpha 0.0
 
 
-image bg test_bg = "bg/homura.png"
+image bg test_bg_01 = "bg/homura_01.png"   # 屏幕大小1280x720
+image bg test_bg_02 = "bg/homura_02.png"

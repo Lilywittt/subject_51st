@@ -2,9 +2,9 @@
 errors listed below, and try again.
 
 
-File "game/rpy/tools/custom_screens.rpy", line 10: 'with' is not a keyword argument or valid child of the screen statement.
-    with pixellate
-        ^
+File "game/rpy/plot/episode_01/chapter_02/01_02_01.rpy", line 59: end of line expected.
+    jump label plot_01_02_02
+               ^
 
 Ren'Py Version: Ren'Py 8.1.1.23060707
-Sun Jun 25 18:17:59 2023
+Mon Jun 26 11:55:08 2023
