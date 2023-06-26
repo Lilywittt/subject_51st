@@ -13,3 +13,5 @@ define ShanXiaoYi_Unknown = Character("？？？") # 单小伊神出鬼没时的
 define nurse = Character("护士")
 
 define doctor = Character("医生")
+
+define sub_53rd = Character("53号")

@@ -22,3 +22,4 @@ screen episode(episode_content):
 
 image bg test_bg_01 = "bg/homura_01.png"   # 屏幕大小1280x720
 image bg test_bg_02 = "bg/homura_02.png"
+image bg test_bg_03 = "bg/homura_03.png"

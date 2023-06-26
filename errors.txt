@@ -2,9 +2,11 @@
 errors listed below, and try again.
 
 
-File "game/rpy/plot/episode_01/chapter_02/01_02_01.rpy", line 59: end of line expected.
-    jump label plot_01_02_02
-               ^
+File "game/rpy/plot/episode_01/chapter_02/01_02_02.rpy", line 140: expected statement.
+(Perhaps you left out a " at the end of the first line.)
+    I """
+            
+        """
 
 Ren'Py Version: Ren'Py 8.1.1.23060707
-Mon Jun 26 11:55:08 2023
+Mon Jun 26 15:08:14 2023
