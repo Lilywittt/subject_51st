@@ -1,6 +1,6 @@
 label plot_01_03_01:
     scene bg test_bg_03 with dissolve
-    show screen chapter("Chapter-03 请带上我的希望") with dissolve
+    show screen chapter("Chapter-03 二者难兼的希望") with dissolve
     show screen date(year = "129", month = "5", day = "28") with pixellate
 
     I "我们应该在地底下吧。"
@@ -174,3 +174,5 @@ label plot_01_03_01:
     ShanXiaoYi "嗯，小林哥哥你放心，我不会犹豫的。"
 
     "或许我们的内心，在不知不觉中，就变得勇敢了一些。"
+
+    jump plot_01_03_02

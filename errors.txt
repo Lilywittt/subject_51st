@@ -2,11 +2,21 @@
 errors listed below, and try again.
 
 
-File "game/rpy/plot/episode_01/chapter_02/01_02_02.rpy", line 140: expected statement.
+File "game/rpy/plot/episode_01/chapter_03/01_03_04.rpy", line 6: expected statement.
 (Perhaps you left out a " at the end of the first line.)
-    I """
-            
-        """
+    nvl """
+       ^
+            5月29日，星期五，倒计时归零了。
+    
+            哥哥的计划，一点都没有考虑到自己的安危吧。
+    
+            聆听着门外越来越近的脚步声，单小伊这样想着。
+    
+            但她无法拒绝。
+    
+            除非——
+    
+            除非她能拿出属于自己的方案。"""
 
 Ren'Py Version: Ren'Py 8.1.1.23060707
-Mon Jun 26 15:08:14 2023
+Tue Jun 27 13:51:50 2023

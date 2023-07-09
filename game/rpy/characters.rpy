@@ -10,8 +10,14 @@ define ShanXiaoYi = Character("单小伊")
 
 define ShanXiaoYi_Unknown = Character("？？？") # 单小伊神出鬼没时的形态
 
+define nvl_ShanXiaoYi = Character("单小伊", kind = nvl) # nvl模式下的单小伊
+
+define nvl_I = Character("I", kind = nvl)
+
 define nurse = Character("护士")
 
 define doctor = Character("医生")
 
 define sub_53rd = Character("53号")
+
+define unknown_labman = Character("？？？") # 未知研究员

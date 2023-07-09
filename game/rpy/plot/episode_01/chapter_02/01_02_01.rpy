@@ -1,6 +1,6 @@
 label plot_01_02_01:
     scene bg test_bg_02 with dissolve
-    show screen chapter("Chapter-02 铁锈味的喜欢") with dissolve
+    show screen chapter("Chapter-02 铁锈晕染的喜欢") with dissolve
     
     ShanXiaoYi "喂——你好——能听见吗——我叫单小伊——"
 

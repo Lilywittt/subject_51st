@@ -3,7 +3,7 @@ label plot_01_01_01:
     show screen episode("Episode-01 逃离圣心医院")
     pause 3.0
     hide screen episode
-    show screen chapter("Chapter-01 纯白色的囚笼") with dissolve
+    show screen chapter("Chapter-01 纯白有瑕的囚笼") with dissolve
 
     """
         我从梦中醒来。
