@@ -1,14 +1,15 @@
 # 对角色的定义，统一放在此文件内
-
 define I = Character("『我』")
 
 define ShanXiaoLin = Character("单小林")
 
 define Ruiko = Character("Ruiko")
 
+define unknown_future_I = Character("？？？")   # “我”的未来未知形态
+
 define ShanXiaoYi = Character("单小伊")
 
-define ShanXiaoYi_Unknown = Character("？？？") # 单小伊神出鬼没时的形态
+define unknown_ShanXiaoYi = Character("？？？") # 单小伊神出鬼没时的形态
 
 define nvl_ShanXiaoYi = Character("单小伊", kind = nvl) # nvl模式下的单小伊
 

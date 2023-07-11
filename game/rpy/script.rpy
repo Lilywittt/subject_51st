@@ -1,5 +1,5 @@
 ﻿label start:
 
-    jump plot_01_01_01
+    jump plot_01_01_00
 
     return

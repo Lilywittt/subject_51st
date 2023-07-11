@@ -7,13 +7,13 @@ label plot_01_01_03:
         闭上眼睛，一个女孩子的声音突然从心中响起。
     """
 
-    ShanXiaoYi_Unknown "小林哥哥！你怎么样了？那个护士走了吗？"
+    unknown_ShanXiaoYi "小林哥哥！你怎么样了？那个护士走了吗？"
 
     "我吓了一跳，脱口而出："
 
     I "你是谁？！"
 
-    ShanXiaoYi_Unknown "嘘——别出声！用心灵来说话！"
+    unknown_ShanXiaoYi "嘘——别出声！用心灵来说话！"
 
     "我听从她的指挥，在心里想：你是谁？"
 

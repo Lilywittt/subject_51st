@@ -1,22 +1,22 @@
 ﻿I'm sorry, but an uncaught exception occurred.
 
 While running game code:
-  File "game/rpy/plot/episode_01/chapter_03/01_03_01.rpy", line 106, in script
-    """
-ValueError: unsupported format character '?' (0x7684) at index 27
+  File "game/rpy/plot/episode_01/chapter_01/01_01_00.rpy", line 2, in script
+    unknown_future_I "……"
+Exception: Sayer 'unknown_future_I' is not defined.
 
 -- Full Traceback ------------------------------------------------------------
 
 Full traceback:
-  File "game/rpy/plot/episode_01/chapter_03/01_03_01.rpy", line 106, in script
-    """
-  File "F:\renpy\renpy-8.1.1-sdk\renpy\ast.py", line 930, in execute
-    renpy.exports.say(who, what, *args, **kwargs)
-  File "F:\renpy\renpy-8.1.1-sdk\renpy\exports.py", line 1462, in say
-    what = what % tag_quoting_dict
-ValueError: unsupported format character '?' (0x7684) at index 27
+  File "game/rpy/plot/episode_01/chapter_01/01_01_00.rpy", line 2, in script
+    unknown_future_I "……"
+  File "F:\renpy\renpy-8.1.1-sdk\renpy\ast.py", line 890, in execute
+    who = eval_who(self.who, self.who_fast)
+  File "F:\renpy\renpy-8.1.1-sdk\renpy\ast.py", line 783, in eval_who
+    raise Exception("Sayer '%s' is not defined." % who)
+Exception: Sayer 'unknown_future_I' is not defined.
 
 Windows-10-10.0.19041 AMD64
 Ren'Py 8.1.1.23060707
 subject_51st 1.0
-Tue Jun 27 00:11:05 2023
+Tue Jul 11 21:18:18 2023
